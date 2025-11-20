@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+transformers
+accelerate
+sentencepiece
+torch
+python-dotenv
+streamlit
+pandas
+plotly
